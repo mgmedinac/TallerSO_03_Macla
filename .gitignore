@@ -1,2 +1,19 @@
 *~
 *.o
+*.out
+*.exe
+a.out
+
+# Objetos compilados
+*.o
+*.a
+*.so
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+*~
+
+# Directorios de build
+build/
+bin/
